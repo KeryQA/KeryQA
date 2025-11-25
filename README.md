@@ -1,5 +1,5 @@
 ## Привет 👋 
-Я Junior QA Engineer.
+Меня зовут Карина. Я Junior QA Engineer.
 
 ## 📊 Статистика
 
